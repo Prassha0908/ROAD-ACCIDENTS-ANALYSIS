@@ -73,7 +73,7 @@ Share your findings or customized reports with your team or community.
 For any inquiries or feedback regarding the project, feel free to reach out to the creator and maintainer:
 
 **PRASSHANTHINI R**
-- Email: (mailto:prasshanthinir.21aid@kongu.edu)
+- Email: [prasshanthinir.21aid@kongu.edu](mailto:prasshanthinir.21aid@kongu.edu)
 
 ## License
 This Power BI Road Accidents Analysis project is licensed under the MIT License.
