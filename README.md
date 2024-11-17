@@ -33,7 +33,11 @@ Road accidents in India continue to be a pervasive and concerning issue, charact
 📊 With thousands of daily accidents happening, controling can be challenging. Many individuals have faced losses due to road accidents. This tool aims to empower the control of road accidents and analysis which state cause most accidents.
 
 ## Power BI for Data Visualization 
-📈 This project utilizes Power BI, a powerful data visualization tool developed by Microsoft. Power BI enables users to connect to various data sources, create interactive reports and dashboards, and derive meaningful insights. With its intuitive interface and robust analytical capabilities, Power BI is an ideal choice for visualizing and understanding complex datasets, making it an invaluable asset in the field of data analysis.
+📈 This project utilizes Power BI, a powerful data visualization tool developed by Microsoft. Power BI enables users to connect to various data sources, create interactive reports and dashboards, and derive meaningful insights. With its intuitive interface and robust analytical capabilities, Power BI is an ideal choice for visualizing and understanding complex datasets, making it an invaluable asset in the field of data analysis. 
+
+## Look to the dashboard of the analysis 
+![Screenshot 2024-11-17 144947](https://github.com/user-attachments/assets/7f65f404-43b8-4bd2-8071-774cb50fe20c)
+
 
 ## Power BI Requirements
 This project relies on Microsoft Power BI for data visualization. Ensure that you have Power BI Desktop installed to view and interact with the provided reports and dashboards.
